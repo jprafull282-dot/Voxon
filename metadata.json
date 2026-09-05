@@ -1,0 +1,6 @@
+{
+  "name": "Voxen",
+  "description": "Next-gen zero-trust AI phone security platform with real-time deepfake audio detection, Aurigin voice anti-spoofing, Gemini fraud intent profiling, and call shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
